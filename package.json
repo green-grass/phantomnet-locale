@@ -1,6 +1,5 @@
 {
   "name": "phantomnet-locale",
-  "version": "1.0.0-beta1",
   "description": "AngularJS directive that supports localization",
   "repository": {
     "type": "git",
